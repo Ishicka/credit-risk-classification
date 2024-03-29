@@ -14,11 +14,15 @@ Model evaluation: Assessing the performance of the trained model using metrics s
 
 ## Results
 ### Logistic Regression Model:
-Accuracy Score: 0.99
-Precision Score (0 - Healthy Loan): 1.00
-Precision Score (1 - High-Risk Loan): 0.86
-Recall Score (0 - Healthy Loan): 1.00
-Recall Score (1 - High-Risk Loan): 0.91
+- Accuracy Score: 0.99
+
+- Precision Score (0 - Healthy Loan): 1.00
+
+- Precision Score (1 - High-Risk Loan): 0.86
+
+- Recall Score (0 - Healthy Loan): 1.00
+  
+- Recall Score (1 - High-Risk Loan): 0.91
 
 ## Summary
 The logistic regression model performed exceptionally well in predicting both healthy and high-risk loans. It achieved near-perfect accuracy for healthy loans and strong performance for high-risk loans, with high precision and recall scores. This model is recommended for credit risk assessment, as it effectively distinguishes between different loan statuses and provides valuable insights for risk management.
